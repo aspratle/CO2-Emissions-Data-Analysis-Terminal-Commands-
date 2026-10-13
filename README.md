@@ -179,3 +179,19 @@ doesn't end up sitting in your portfolio repo).
 **Share-out:** this week during TIP, we'll share out your data-quality
 questions, how you used AI, and any reflections from the project — so come
 ready to talk about your project.
+
+
+
+## CO2 Emissions Exploration 
+
+### Sceanrio and Questions 
+- Stakeholder:  Non-profit interested in X the questions I attemted to answer were as follows:
+  a. What data do we have and how is it structured 
+
+Scenario & Questions — the real-world scenario this data relates to (see PROJECT_OVERVIEW.md, before you delete it below) and the specific questions you set out to answer by inspecting the file.
+Dataset Overview — what it is, source, license.
+What I Found — real column-type calls and a couple of concrete observations.
+Data Quality Question — the one you settled on, and why.
+Reflection — your AI-literacy takeaway.
+
+
